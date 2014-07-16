@@ -25,6 +25,7 @@ void MyCal::showAdding(void)
 	
 	c = a + b;
 	cout << "Result is: " << c << endl;
+	// test change
 	
 }
 
