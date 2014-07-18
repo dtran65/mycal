@@ -13,6 +13,7 @@ class MyCal
 
         void showFirstNumber();
         void showSecondNumber();
+	void showThirdNumber();
 		 
        	int firsNumber;
         double secondNumber;
