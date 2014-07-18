@@ -24,7 +24,7 @@ void MyCal::showThirdNumber()
 	int k;
 	int l;
 
-	l = j + k;	
+	l = j + k;	 // parasoft-suppress BD-PB-NOTINIT "For Testing"
 	double third = 3;
 	cout << third << endl;
 	
