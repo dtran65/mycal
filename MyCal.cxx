@@ -26,7 +26,7 @@ void MyCal::showThirdNumber()
 	int x;
 	int y;
 
-	l = x - y;
+	l = x - y;  // parasoft-suppress BD-PB-NOTINIT "MPB testing"
 
 	l = j + k;	 // parasoft-suppress BD-PB-NOTINIT "For Testing"
 	double third = 3;
