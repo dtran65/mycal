@@ -23,6 +23,10 @@ void MyCal::showThirdNumber()
 	double j;
 	int k;
 	int l;  // lets test this
+/*	int x;
+	int y;
+
+	l = x + y; */
 
 	l = j + k;	 // parasoft-suppress BD-PB-NOTINIT "For Testing"
 	double third = 3;
