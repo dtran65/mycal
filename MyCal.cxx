@@ -40,7 +40,7 @@ void MyCal::showAdding(void)
 	int b;
 	int c;
 	
-	c = a + b;
+/*	c = a + b; */
 	cout << "Result is: " << c << endl;
 	
 }
