@@ -23,8 +23,8 @@ void MyCal::showAdding(void)
 	int b;
 	int c;
 	
-	c = a + b;
-	cout << "Result is: " << c << endl;
+	/* c = a + b; */
+	cout << "Result is: " << (c= 1) << endl;
 	
 }
 
