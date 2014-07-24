@@ -23,7 +23,7 @@ void MyCal::showAdding(void)
 	int b;
 	int c;
 	
-	c = a + b;  // DKT make violation  
+	c = a + b;  // DKT make violation
 	cout << "Result is: " << (c= 1) << endl;
 	
 }
