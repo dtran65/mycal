@@ -41,7 +41,8 @@ void MyCal::showAdding(void)
 	int c;
 	
 /*	c = a + b; */
-	cout << "Result is: " << c << endl;
+	cout << "Result is: " << (c=0) << endl;
+	// 7-23-2014: Fixed the c  vaiarlbe above by given it  initial value
 	
 }
 
