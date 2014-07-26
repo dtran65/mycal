@@ -23,7 +23,7 @@ void MyCal::showAdding(void)
 	int b;
 	int c;
 	
-	c = a + b;
+	c = a + b;  //parasoft-suppress BD-PB-NOTINIT
 	cout << "Result is: " << c << endl;
 	cout << "MB was here" << endl;
 	
