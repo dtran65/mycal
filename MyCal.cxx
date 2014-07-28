@@ -23,7 +23,8 @@ void MyCal::showAdding(void)
 	int b;
 	int c;
 	
-	/* c = a + b; */
+	// 7-28-2014 DKT Creating violation
+	c = a + b;
 	cout << "Result is: " << (c= 1) << endl;
 	
 }
