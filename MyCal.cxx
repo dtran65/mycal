@@ -12,6 +12,9 @@ void MyCal::showFirstNumber()
 
 void MyCal::showSecondNumber()
 {
+	int i,j,k;
+
+	i = j + k;
 	double second = 2;
 	cout << second << endl;
 	
